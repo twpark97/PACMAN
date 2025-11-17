@@ -30,6 +30,7 @@ To run PACMAN, **you must quantize the NN model on your own GPU** to generate a 
 ## Citation
 If you find our work useful, please cite the following paper.
 
+```
 @article{PARK2026105821,
   title={PACMAN: Rapid identification of keypoint patch-based fiducial marker in occluded environments},
   journal={Image and Vision Computing},
