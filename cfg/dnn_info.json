@@ -1,0 +1,6 @@
+{
+  "trt_engine_path": "/workspace/models/int8/pacman_fpn202506_1240_1624_int8.engine",  
+  "n_desc": 4,
+  "conf_thresh": 0.004,
+  "nms_suppress_dist": 12
+}

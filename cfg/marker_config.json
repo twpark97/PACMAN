@@ -1,0 +1,39 @@
+{
+  "names": ["marker0", "marker1", "marker2", "marker3"],
+  "marker0": 
+  {
+    "keypoint_id": 0,
+    "keypoint_descriptor": [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1],
+    
+    "keypoint_circle_rad_over_hexagon_rad": 0.5,
+    "keypoint0_yaw_deg": 90,
+    "hexagon_radius_meter": 0.068
+  },
+  "marker1": 
+  {
+    "keypoint_id": 1,
+    "keypoint_descriptor": [0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0],
+    
+    "keypoint_circle_rad_over_hexagon_rad": 0.3,
+    "keypoint0_yaw_deg": 90,
+    "hexagon_radius_meter": 0.068
+  },
+  "marker2": 
+  {
+    "keypoint_id": 2,
+    "keypoint_descriptor": [0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1],
+    
+    "keypoint_circle_rad_over_hexagon_rad": 0.5,
+    "keypoint0_yaw_deg": 90,
+    "hexagon_radius_meter": 0.068
+  },
+  "marker3": 
+  {
+    "keypoint_id": 3,
+    "keypoint_descriptor": [0,0,0,0,1,0,0,1,0,0,0,0,1,1,1,1],
+    
+    "keypoint_circle_rad_over_hexagon_rad": 0.5,
+    "keypoint0_yaw_deg": 90,
+    "hexagon_radius_meter": 0.068
+  }
+}

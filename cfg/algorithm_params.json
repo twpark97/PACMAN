@@ -1,0 +1,14 @@
+{
+  "max_available_threads": 6,
+  "border_cell": 2,
+
+  "step2_labelling_thresh1": 0.2,
+  "step2_labelling_thresh2": 0.5,
+  "step2_dist_from_center_rate_error_thresh": 0.1,
+  "step2_right_triangle_rate_error_thresh": 0.25,
+  "step2_dist_from_other_to_each_rate_error_thresh": 0.25,
+
+  "step2_feature_direction_angle_error_thresh": 20.0,
+  "step2_img_and_pnp_yawdiff_error_thresh": 15,
+  "step2_max_reprojection_error_pixel_thresh": 3
+}

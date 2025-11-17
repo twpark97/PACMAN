@@ -1,0 +1,8 @@
+{
+  "cfg_root": "/workspace/estimate/paacman_revision/cfg",
+  "dnn_info_filename": "dnn_info.json",
+  "camera_info_filename": "camera_info.json",
+  "marker_config_filename": "marker_config.json",
+  "algorithm_params_filename": "algorithm_params.json",
+  "debug_info_filename": "debug_info.json"
+}

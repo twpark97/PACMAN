@@ -15,7 +15,7 @@ PACMAN has been tested on the following systems:
 | Desktop  | Ubuntu 22.04  | (fill)           | (fill)          |
 | AGX Orin | JetPack 6.1   | (fill)           | (fill)          |
 
-<img width="4245" height="1343" alt="main" src="https://github.com/user-attachments/assets/b666f004-e2b4-4fa1-acbf-9c8355f4676f" />
+<img src="resource/main.png" width="4245" height="1343" alt="main" />
 
 To run PACMAN, **you must quantize the NN model on your own GPU** to generate a TensorRT-compatible engine. We provide a pretrained keypoint detector network.
 (See)

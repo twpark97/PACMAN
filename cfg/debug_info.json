@@ -1,0 +1,28 @@
+{
+  "enable_debug":false,
+  "enable_debug_combinatorial_optimization": false,
+  "debug_image_dir_root": "/workspace/estimate/PACMAN/debug",
+  "debug_image_dirs": [
+    "step0_precheck",
+    "step1_network_inference",
+    "step2_regular_shape_and_direction_check"
+  ],
+  "clear_debug_image_dirs": true,
+ 
+  "id0_color_cv": [0, 0, 255],
+  "id1_color_cv": [0, 255, 0],
+  "id2_color_cv": [255, 0, 0],
+  "id3_color_cv": [130, 31, 145],
+  "marker_center_color_cv": [0, 255, 255],
+
+  "enclosed_circle_radius": 20,
+  "enclosed_circle_thickness": 10,
+  "font_scale": 3,
+
+  "step1_debug_feature_radius": 20,
+  
+  "enable_time_log": true,
+  "time_log_csv": "/workspace/estimate/marker1_thread_test/thread32_1280_720.csv",
+  "time_log_flush_seq": 1999,
+  "time_log_do_print": true
+}
